@@ -2,19 +2,7 @@
 
 Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc.. 
 
-# Contents
-
-[Useful Links](#useful_links)
-
-[Web Projects](#web_projects)
-
-[Codepen Web Components](#codepen_web_components)
-
-[Python Projects](#python_projects)
-
-
-
-# Useful_links
+# links
 
 Portfolio [Link](https://ahmedrohailawan.netlify.app/)
 
@@ -26,7 +14,7 @@ CodePen [Link](https://codepen.io/ahmedrohailawan)
 
 Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
 
-# Web_Projects
+# Web Projects
 
 TextUtils using React [{Code}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [{Live Preview}](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
 
@@ -46,11 +34,19 @@ Gym website Project [{Code}](https://github.com/ahmedrohailawan/Gym-Project) [{L
 
 new coming soon [{Code}]() [{Live Preview}]()
 
-# Codepen_Web_Components
+# Codepen Web Components
 
-new coming soon [{Code}]()
+Navbar 1 [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/ZEoEYGO)
 
-# Python_Projects
+Text to Speech Converter using JS [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/NWYgQRr)
+
+Displaying Alert with remove button using Js [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/xxpPrrr)
+
+Readmore and Readless Button using Js [{Live Preview}]()
+
+new coming soon [{Live Preview}]()
+
+# Python Projects
 
 Banking System using OOP in Python [{Code}](https://github.com/ahmedrohailawan/Banking-System-Using-OOP-In-Python)
 
