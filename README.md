@@ -32,7 +32,7 @@ Food DeliveryProject [{Code}](https://github.com/ahmedrohailawan/Food-Delivery-p
 
 Gym website Project [{Code}](https://github.com/ahmedrohailawan/Gym-Project) [{Live Preview}](https://ahmedrohailawan.github.io/Gym-Project/)
 
-new coming soon [{Code}]() [{Live Preview}]()
+new coming soon ... [{Code}]() [{Live Preview}]()
 
 # Codepen Web Components
 
@@ -44,7 +44,7 @@ Displaying Alert with remove button using Js [{Live Preview}](https://codepen.io
 
 Readmore and Readless Button using Js [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/ExbdPKm)
 
-new coming soon [{Live Preview}]()
+new coming soon ... [{Live Preview}]()
 
 # Python Projects
 
@@ -62,20 +62,20 @@ new coming soon ... [{Code}]()
 
 # Concepts
 
-[CSS](https://github.com/ahmedrohailawan/CSS___Concepts)
+CSS [Link](https://github.com/ahmedrohailawan/CSS___Concepts)
 
-[Javascript](https://github.com/ahmedrohailawan/JavaScript___Concepts)
+Javascript [Link](https://github.com/ahmedrohailawan/JavaScript___Concepts)
 
-[Node and Express JS](https://github.com/ahmedrohailawan/NodeJS___Concepts)
+Node and Express JS [Link](https://github.com/ahmedrohailawan/NodeJS___Concepts)
 
-[SQL](https://github.com/ahmedrohailawan/SQL___Concepts)
+SQL [Link](https://github.com/ahmedrohailawan/SQL___Concepts)
 
-[Python](https://github.com/ahmedrohailawan/Python___Concepts)
+Python [Link](https://github.com/ahmedrohailawan/Python___Concepts)
 
-[CPP](https://github.com/ahmedrohailawan/Cpp___Concepts)
+CPP [Link](https://github.com/ahmedrohailawan/Cpp___Concepts)
 
-[Assembly](https://github.com/ahmedrohailawan/Assembly___Concepts)
+Assembly [Link](https://github.com/ahmedrohailawan/Assembly___Concepts)
 
-[new coming soon ...]()
+new coming soon [Link]()
 
 
