@@ -4,7 +4,7 @@ Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ yea
 
 # Links
 
-Portfolio [Link](#useful links)
+Portfolio [Link](#useful_links)
 
 Github [Link](https://github.com/ahmedrohailawan)
 
@@ -14,7 +14,7 @@ CodePen [Link](https://codepen.io/ahmedrohailawan)
 
 Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
 
-# Useful links
+# Useful_links
 
 Portfolio [Link](https://ahmedrohailawan.netlify.app/)
 
