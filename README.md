@@ -42,7 +42,7 @@ Text to Speech Converter using JS [{Live Preview}](https://codepen.io/ahmedrohai
 
 Displaying Alert with remove button using Js [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/xxpPrrr)
 
-Readmore and Readless Button using Js [{Live Preview}]()
+Readmore and Readless Button using Js [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/ExbdPKm)
 
 new coming soon [{Live Preview}]()
 
@@ -56,7 +56,7 @@ Study Rooms App using Python Django [{Code}](https://github.com/ahmedrohailawan/
 
 Hill cipher for Encryption and Decryption of Image [{Code}](https://github.com/ahmedrohailawan/Hill___Cipher)
 
-Calculator using Assembly lanaguage [{Code}]()
+Calculator using Assembly lanaguage [{Code}](https://github.com/ahmedrohailawan/calculator-using-assembly-lanaguage)
 
 new coming soon [{Code}]()
 
