@@ -2,17 +2,17 @@
 
 Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc.. 
 
-# Links
+# Contents
 
-Portfolio [Link](#useful_links)
+[Useful Links](#useful_links)
 
-Github [Link](https://github.com/ahmedrohailawan)
+[Web Projects](#web_projects)
 
-Linkedin [Link](https://www.linkedin.com/in/ahmedrohailawan/)
+[Codepen Web Components](#codepen_web_components)
 
-CodePen [Link](https://codepen.io/ahmedrohailawan)
+[Python Projects](#python_projects)
 
-Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
+
 
 # Useful_links
 
@@ -26,7 +26,7 @@ CodePen [Link](https://codepen.io/ahmedrohailawan)
 
 Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
 
-# Web Projects
+# Web_Projects
 
 TextUtils using React [{Code}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [{Live Preview}](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
 
@@ -46,7 +46,11 @@ Gym website Project [{Code}](https://github.com/ahmedrohailawan/Gym-Project) [{L
 
 new coming soon [{Code}]() [{Live Preview}]()
 
-# Python Projects
+# Codepen_Web_Components
+
+new coming soon [{Code}]()
+
+# Python_Projects
 
 Banking System using OOP in Python [{Code}](https://github.com/ahmedrohailawan/Banking-System-Using-OOP-In-Python)
 
