@@ -58,5 +58,24 @@ Hill cipher for Encryption and Decryption of Image [{Code}](https://github.com/a
 
 Calculator using Assembly lanaguage [{Code}](https://github.com/ahmedrohailawan/calculator-using-assembly-lanaguage)
 
-new coming soon [{Code}]()
+new coming soon ... [{Code}]()
+
+# Concepts
+
+[CSS](https://github.com/ahmedrohailawan/CSS___Concepts)
+
+[Javascript](https://github.com/ahmedrohailawan/JavaScript___Concepts)
+
+[Node and Express JS](https://github.com/ahmedrohailawan/NodeJS___Concepts)
+
+[SQL](https://github.com/ahmedrohailawan/SQL___Concepts)
+
+[Python](https://github.com/ahmedrohailawan/Python___Concepts)
+
+[CPP](https://github.com/ahmedrohailawan/Cpp___Concepts)
+
+[Assembly](https://github.com/ahmedrohailawan/Assembly___Concepts)
+
+[new coming soon ...]()
+
 
