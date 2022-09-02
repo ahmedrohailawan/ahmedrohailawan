@@ -16,9 +16,9 @@ Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/
 
 # Web Projects
 
-TextUtils using React [{code}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [{live preview}](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
+TextUtils using React [{Code}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [{Live Preview}](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
 
-Github [Link](https://github.com/ahmedrohailawan)
+Github [{Code}]() [{Live Preview}]()
 
 Linkedin [Link](https://www.linkedin.com/in/ahmedrohailawan/)
 
