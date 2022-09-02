@@ -16,12 +16,12 @@ Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/
 
 # Web Projects
 
-### `TextUtils using React` [code](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS/tree/main/Text-Utils) [Live](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/) 
+TextUtils using React [code](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [live preview](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
 
-### `Github` [Link](https://github.com/ahmedrohailawan)
+Github [Link](https://github.com/ahmedrohailawan)
 
-### `Linkedin` [Link](https://www.linkedin.com/in/ahmedrohailawan/)
+Linkedin [Link](https://www.linkedin.com/in/ahmedrohailawan/)
 
-### `CodePen` [Link](https://codepen.io/ahmedrohailawan)
+CodePen [Link](https://codepen.io/ahmedrohailawan)
 
-### `Resume` [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
+Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
