@@ -2,7 +2,7 @@
 
 Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc.. 
 
-## Links
+# Links
 
 ### `Portfolio` [Link](https://ahmedrohailawan.netlify.app/)
 
@@ -14,8 +14,7 @@ Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ yea
 
 ### `Resume` [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
 
-
-## Web Projects
+# Web Projects
 
 ### `TextUtils using React` [code](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS/tree/main/Text-Utils) [Live](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/) 
 
