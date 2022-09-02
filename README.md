@@ -10,4 +10,4 @@ Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ yea
 
 ### `Linkedin` [Link](https://www.linkedin.com/in/ahmedrohailawan/)
 
-### `Resume` [Link](https://drive.google.com/file/d/1P__3FAAXw0SML1_BAzkMEDv24f1aS0N4/view)
+### `Resume` [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
