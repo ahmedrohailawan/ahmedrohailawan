@@ -34,18 +34,6 @@ Gym website Project [{Code}](https://github.com/ahmedrohailawan/Gym-Project) [{L
 
 new coming soon ... [{Code}]() [{Live Preview}]()
 
-# Codepen Web Components
-
-Navbar 1 [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/ZEoEYGO)
-
-Text to Speech Converter using JS [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/NWYgQRr)
-
-Displaying Alert with remove button using Js [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/xxpPrrr)
-
-Readmore and Readless Button using Js [{Live Preview}](https://codepen.io/ahmedrohailawan/pen/ExbdPKm)
-
-new coming soon ... [{Live Preview}]()
-
 # Python Projects
 
 Banking System using OOP in Python [{Code}](https://github.com/ahmedrohailawan/Banking-System-Using-OOP-In-Python)
