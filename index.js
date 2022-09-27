@@ -1,4 +1,13 @@
+// holding ready functio for 3 seconds
+$.holdReady(true);
+setTimeout(function () {
+    $.holdReady(false);
+}, 2200);
+
 $(document).ready(function(){
+    // loading animation
+    $("#loading_start").css("display", "none");
+
     // typing animation 
     var typed = new Typed(".typing",{
       strings: ["Freelancer","Developer","Designer","Blogger","YouTuber"],
@@ -6,7 +15,6 @@ $(document).ready(function(){
       backSpeed: 60,
       loop:true
     });
-
 
     // carousel animation
     $('.carousel').owlCarousel({
