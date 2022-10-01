@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Ahmed Rohail Awan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br><br>
-	I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc..
+I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc..
+<br>
 - :school: I am a `Computer Science Student` at [Institute of Space Technology](https://www.ist.edu.pk/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently doing BS in `Computer Science`.
