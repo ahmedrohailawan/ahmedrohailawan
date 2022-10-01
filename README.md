@@ -1,20 +1,28 @@
-# Ahmed Rohai Awan
+<h1 align="center">Hi , I'm Ahmed Rohail Awan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<br><br>
 
-Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc.. 
+- :school: I am a `Computer Science Student` at [Institute of Space Technology](https://www.ist.edu.pk/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently doing BS in `Computer Science`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`.
+- :link:[Portfolio WEBSITE]().
+- :link:[Resume]().
+<br>
 
-# links
 
-Portfolio [Link](https://ahmedrohailawan.netlify.app/)
 
-Github [Link](https://github.com/ahmedrohailawan)
+<p align="center">
+	<a href="mailto:ahmedrohailawanwaheedyousaf@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/ahmedrohailawan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ahmedrohailawan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://ahmedrohailawan.netlify.app/"><img src="https://img.shields.io/badge/website-%05e6ee.svg?style=plastic&logoColor=white" alt="website"/></a>
+	<a href="https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view"><img src="https://img.shields.io/badge/resume-%23EA4335.svg?style=plastic&logoColor=white" alt="resume"/></a>
+	
 
-Linkedin [Link](https://www.linkedin.com/in/ahmedrohailawan/)
 
-CodePen [Link](https://codepen.io/ahmedrohailawan)
 
-Resume [Link](https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view?usp=sharing)
-
-# Web Projects
+## Web Projects
 
 TextUtils using React [{Code}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [{Live Preview}](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
 
@@ -33,8 +41,9 @@ Food DeliveryProject [{Code}](https://github.com/ahmedrohailawan/Food-Delivery-p
 Gym website Project [{Code}](https://github.com/ahmedrohailawan/Gym-Project) [{Live Preview}](https://ahmedrohailawan.github.io/Gym-Project/)
 
 new coming soon ... [{Code}]() [{Live Preview}]()
+	
+## Python Projects
 
-# Python Projects
 
 Banking System using OOP in Python [{Code}](https://github.com/ahmedrohailawan/Banking-System-Using-OOP-In-Python)
 
@@ -48,8 +57,9 @@ Calculator using Assembly lanaguage [{Code}](https://github.com/ahmedrohailawan/
 
 new coming soon ... [{Code}]()
 
-# Concepts
+##  Concepts
 
+	
 CSS [Link](https://github.com/ahmedrohailawan/CSS___Concepts)
 
 Javascript [Link](https://github.com/ahmedrohailawan/JavaScript___Concepts)
@@ -65,5 +75,4 @@ CPP [Link](https://github.com/ahmedrohailawan/Cpp___Concepts)
 Assembly [Link](https://github.com/ahmedrohailawan/Assembly___Concepts)
 
 new coming soon [Link]()
-
-
+	
