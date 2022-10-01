@@ -1,4 +1,4 @@
-// holding ready functio for 3 seconds
+// holding ready function for 2.2 seconds
 $.holdReady(true);
 setTimeout(function () {
     $.holdReady(false);
