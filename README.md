@@ -3,7 +3,6 @@
 <p>
 I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc..
 </p>
-<br><br>
 
 - :school: I am a `Computer Science Student` at [Institute of Space Technology](https://www.ist.edu.pk/).
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -11,8 +10,6 @@ I am a full-stack web developer with 1+ years of experience with modern technolo
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`.
 <br>
-
-
 
 <p align="center">
 	<a href="mailto:ahmedrohailawanwaheedyousaf@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
