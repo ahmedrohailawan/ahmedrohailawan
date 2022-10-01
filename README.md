@@ -6,8 +6,6 @@
 - :student: I’m currently doing BS in `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`.
-- :link:[Portfolio WEBSITE]().
-- :link:[Resume]().
 <br>
 
 
