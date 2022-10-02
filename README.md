@@ -21,38 +21,38 @@
 
 ## Web Projects
 
-TextUtils using React [{Code}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS) [{Live Preview}](https://ahmedrohailawan.github.io/TextUtils_Using_React_JS/)
+TextUtils using React [{Visit}](https://github.com/ahmedrohailawan/TextUtils_Using_React_JS)
 
-User System in Node [{Code}](https://github.com/ahmedrohailawan/User_system___In_Node_JS)
+User System in Node [{Visit}](https://github.com/ahmedrohailawan/User_system___In_Node_JS)
 
-Portfolio Website using html css and js [{Code}](https://github.com/ahmedrohailawan/portfolio_website_using_html_css_and_js) [{Live Preview}](https://ahmedrohailawan.github.io/portfolio_website_using_html_css_and_js/)
+Portfolio Website using html css and js [{Visit}](https://github.com/ahmedrohailawan/portfolio_website_using_html_css_and_js)
 
-Alarm Clock using Javascript [{Code}](https://github.com/ahmedrohailawan/Alarm-clock-using-javascript) [{Live Preview}](https://ahmedrohailawan.github.io/Alarm-clock-using-javascript/)
+Alarm Clock using Javascript [{Visit}](https://github.com/ahmedrohailawan/Alarm-clock-using-javascript)
 
-File Downloader using Javascript [{Code}](https://github.com/ahmedrohailawan/File-downloader-with-vanilla-javasctipt) [{Live Preview}](https://ahmedrohailawan.github.io/File-downloader-with-vanilla-javasctipt/)
+File Downloader using Javascript [{Visit}](https://github.com/ahmedrohailawan/File-downloader-with-vanilla-javasctipt)
 
-Text to Speech Converter using Javascript [{Code}](https://github.com/ahmedrohailawan/Text-to-Speech-Converter-using-JavaScript) [{Live Preview}](https://ahmedrohailawan.github.io/Text-to-Speech-Converter-using-JavaScript/)
+Text to Speech Converter using Javascript [{Visit}](https://github.com/ahmedrohailawan/Text-to-Speech-Converter-using-JavaScript)
 
-Food DeliveryProject [{Code}](https://github.com/ahmedrohailawan/Food-Delivery-project)
+Food DeliveryProject [{Visit}](https://github.com/ahmedrohailawan/Food-Delivery-project)
 
-Gym website Project [{Code}](https://github.com/ahmedrohailawan/Gym-Project) [{Live Preview}](https://ahmedrohailawan.github.io/Gym-Project/)
+Gym website Project [{Visit}](https://github.com/ahmedrohailawan/Gym-Project) 
 
-new coming soon ... [{Code}]() [{Live Preview}]()
+new coming soon ... [{Visit}]() 
 	
 ## Python Projects
 
 
-Banking System using OOP in Python [{Code}](https://github.com/ahmedrohailawan/Banking-System-Using-OOP-In-Python)
+Banking System using OOP in Python [{Visit}](https://github.com/ahmedrohailawan/Banking-System-Using-OOP-In-Python)
 
-Bug Tracker DSA Project using Python Django  [{Code}](https://github.com/ahmedrohailawan/Bug-Tracker)
+Bug Tracker DSA Project using Python Django  [{Visit}](https://github.com/ahmedrohailawan/Bug-Tracker)
 
-Study Rooms App using Python Django [{Code}](https://github.com/ahmedrohailawan/Study_Rooms_App_using_Django)
+Study Rooms App using Python Django [{Visit}](https://github.com/ahmedrohailawan/Study_Rooms_App_using_Django)
 
-Hill cipher for Encryption and Decryption of Image [{Code}](https://github.com/ahmedrohailawan/Hill___Cipher)
+Hill cipher for Encryption and Decryption of Image [{Visit}](https://github.com/ahmedrohailawan/Hill___Cipher)
 
-Calculator using Assembly lanaguage [{Code}](https://github.com/ahmedrohailawan/calculator-using-assembly-lanaguage)
+Calculator using Assembly lanaguage [{Visit}](https://github.com/ahmedrohailawan/calculator-using-assembly-lanaguage)
 
-new coming soon ... [{Code}]()
+new coming soon ... [{Visit}]()
 
 ##  Concepts
 
