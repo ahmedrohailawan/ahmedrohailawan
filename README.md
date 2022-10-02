@@ -14,7 +14,7 @@
 	<a href="https://github.com/ahmedrohailawan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ahmedrohailawan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://ahmedrohailawan.netlify.app/"><img src="https://img.shields.io/badge/website-%05e6ee.svg?style=plastic&logoColor=white" alt="website"/></a>
-	<a href="https://drive.google.com/file/d/1owBnn_BvXKNzpwDR82osHx0PrnXu4Etp/view"><img src="https://img.shields.io/badge/resume-%23EA4335.svg?style=plastic&logoColor=white" alt="resume"/></a>
+	<a href="https://drive.google.com/drive/folders/1zc8yyK0RNFRhxWLLXAJG2TTIqBPFraBX?usp=sharing"><img src="https://img.shields.io/badge/resume-%23EA4335.svg?style=plastic&logoColor=white" alt="resume"/></a>
 	
 
 
