@@ -1,13 +1,4 @@
-// holding ready function for 2.2 seconds
-$.holdReady(true);
-setTimeout(function () {
-    $.holdReady(false);
-}, 2200);
-
 $(document).ready(function(){
-    // loading animation
-    $("#loading_start").css("display", "none");
-
     // typing animation 
     var typed = new Typed(".typing",{
       strings: ["Freelancer","Developer","Designer","Blogger","YouTuber"],
