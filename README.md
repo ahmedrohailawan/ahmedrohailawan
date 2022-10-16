@@ -10,10 +10,7 @@ Hi, my name is Ahmed Rohail Awan and I am a web developer with 1+ years of self 
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`.
 <br>
 
-<p align="center">
-	<a href="https://ahmedrohailawan.netlify.app/"><img src="https://img.shields.io/badge/website-%05e6ee.svg?style=plastic&logoColor=white" alt="website"/></a>
-
-
+<a href="https://ahmedrohailawan.netlify.app/"><img src="https://img.shields.io/badge/website-%05e6ee.svg?style=plastic&logoColor=white" alt="website"/></a>
 
 
 ## Web Projects
