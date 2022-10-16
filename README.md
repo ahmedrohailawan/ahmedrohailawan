@@ -11,12 +11,8 @@ Hi, my name is Ahmed Rohail Awan and I am a web developer with 1+ years of self 
 <br>
 
 <p align="center">
-	<a href="mailto:ahmedrohailawanwaheedyousaf@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ahmedrohailawan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ahmedrohailawan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://ahmedrohailawan.netlify.app/"><img src="https://img.shields.io/badge/website-%05e6ee.svg?style=plastic&logoColor=white" alt="website"/></a>
-	<a href="https://drive.google.com/drive/folders/1zc8yyK0RNFRhxWLLXAJG2TTIqBPFraBX?usp=sharing"><img src="https://img.shields.io/badge/resume-%23EA4335.svg?style=plastic&logoColor=white" alt="resume"/></a>
-	
+
 
 
 
