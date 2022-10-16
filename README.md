@@ -2,7 +2,7 @@
 Hi, my name is Ahmed Rohail Awan and I am a web developer with 1+ years of self experience with technologies like Html, CSS, JS, Node JS, Express JS, React JS, Django, Python. I am also interested in Python AI deeply and want to use it to solve web problems.
 
 <div align="center">
-	<a href="https://ahmedrohailawan.netlify.app/"><img img src="style=plastic&logoColor=white" alt="Website"/></a>
+	<a target="_blank" href="https://ahmedrohailawan.netlify.app/"><img src="https://img.shields.io/badge/Website-%23181717.svg?style=plastic&logoColor=white" alt="Website"/></a>
 </div>
 
 
