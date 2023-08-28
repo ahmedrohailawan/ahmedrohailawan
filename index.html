@@ -1,1 +1,526 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Hi, my name is Ahmed Rohail Awan and I am a full-stack web developer with 1+ years of experience with modern technologies like React js, Node js, Express JS, Next js, Mongo DB etc.."/><link rel="icon" href="/icon.jpeg"/><link rel="apple-touch-icon" href="/logo192.png"/><script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>><script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script><script src="index.js"></script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer"/><title>Ahmed Rohail Awan</title><script defer="defer" src="/static/js/main.7bfa5b06.js"></script><link href="/static/css/main.f79b03c6.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahmed Rohail Awan - Personal Portfolio</title>
+  <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <main>
+    <aside class="sidebar" data-sidebar>
+      <div class="sidebar-info">
+        <figure class="avatar-box">
+          <img src="./assets/images/my-avatar.png" alt="Ahmed Rohail Awan" width="80">
+        </figure>
+        <div class="info-content">
+          <h1 class="name" title="Ahmed Rohail Awan">Ahmed Rohail Awan</h1>
+          <p class="title">Full Stack Developer</p>
+        </div>
+        <button class="info_more-btn" data-sidebar-btn>
+          <span>Show Contacts</span>
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
+      </div>
+      <div class="sidebar-info_more">
+        <div class="separator"></div>
+        <ul class="contacts-list">
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="mail-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Email</p>
+              <a href="mailto:ahmedrohailawanwaheedyousaf@gmail.com" class="contact-link">ahmedrohailawanwaheedyousaf@gmail.com</a>
+            </div>
+          </li>
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="phone-portrait-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Phone</p>
+              <a href="tel:+923475615338" class="contact-link">+92 347 5615338</a>
+            </div>
+          </li>
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="calendar-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Birthday</p>
+              <time datetime="2002-09-17">September 17, 2002</time>
+            </div>
+          </li>
+          <li class="contact-item">
+            <div class="icon-box">
+              <ion-icon name="location-outline"></ion-icon>
+            </div>
+            <div class="contact-info">
+              <p class="contact-title">Location</p>
+              <address>Islamabad , Punjab Pakistan</address>
+            </div>
+          </li>
+        </ul>
+        <div class="separator"></div>
+        <ul class="social-list">
+          <li class="social-item">
+            <a href="https://github.com/ahmedrohailawan" target="_blank" class="social-link">
+              <ion-icon name="logo-github"></ion-icon>
+            </a>
+          </li>
+          <li class="social-item">
+            <a href="https://www.linkedin.com/in/ahmedrohailawan/" target="_blank" class="social-link">
+              <ion-icon name="logo-linkedin"></ion-icon>
+            </a>
+          </li>
+          <li class="social-item">
+            <a href="https://www.instagram.com/ahmedrohailawan/" target="_blank" class="social-link">
+              <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+          </li>
+          <li class="social-item">
+            <a href="https://twitter.com/ahmedrohailawan" target="_blank" class="social-link">
+              <ion-icon name="logo-twitter"></ion-icon>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </aside>
+    <div class="main-content">
+      <nav class="navbar">
+        <ul class="navbar-list">
+          <li class="navbar-item">
+            <button class="navbar-link  active" data-nav-link>About</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Resume</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Portfolio</button>
+          </li>
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Contact</button>
+          </li>
+        </ul>
+      </nav>
+      <article class="about  active" data-page="about">
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+        <section class="about-text">
+          <p>
+            Hello there! I'm a web developer with more than 2 years of experience. On the front end, I use HTML, CSS, and JavaScript to create beautiful web interfaces. I'm also skilled in making things visually appealing with Tailwind CSS and Bootstrap. For the back end, I rely on React, Node.js, Express.js, and MongoDB to build strong and scalable applications. I'm also well-versed in Django and SQLite to create flexible web solutions. Let's collaborate to bring your web ideas to life!
+          </p>
+        </section>
+        <section class="service">
+          <h3 class="h3 service-title">What i'm doing</h3>
+          <ul class="service-list">
+            <li class="service-item">
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-app.svg" alt="mobile app icon" width="40">
+              </div>
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Web Development</h4>
+                <p class="service-item-text">
+                  We offers a variety of website design and development services in which we use modern technologies of Era..
+                </p>
+              </div>
+            </li>
+          </ul>
+        </section>
+        <section class="testimonials">
+          <h3 class="h3 testimonials-title">Testimonials</h3>
+          <ul class="testimonials-list has-scrollbar">
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-1.png" alt="Johnson From USA" width="60" data-testimonials-avatar>
+                </figure>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Johnson From USA</h4>
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    We had a fantastic experience. The work quality was excellent, and they delivered a top-notch solution for our business. Their attention to detail and commitment to delivering a user-friendly platform exceeded our expectations. They were easy to collaborate with throughout the project. We were impressed with their expertise in e-commerce and their ability to implement our requirements effectively. We definitely plan to hire them again for future projects. They have proven themselves to be a valuable partner, and we look forward to continuing our successful partnership.
+                  </p>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </section>
+        <div class="modal-container" data-modal-container>
+          <div class="overlay" data-overlay></div>
+          <section class="testimonials-modal">
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+            <div class="modal-img-wrapper">
+              <figure class="modal-avatar-box">
+                <img src="./assets/images/avatar-1.png" alt="Johnson From USA" width="80" data-modal-img>
+              </figure>
+              <img src="./assets/images/icon-quote.svg" alt="quote icon">
+            </div>
+            <div class="modal-content">
+              <h4 class="h3 modal-title" data-modal-title>Johnson From USA</h4>
+              <time datetime="2022-11-14">14 NOV, 2022</time>
+              <div data-modal-text>
+                <p>
+                  We had a fantastic experience. The work quality was excellent, and they delivered a top-notch solution for our business. Their attention to detail and commitment to delivering a user-friendly platform exceeded our expectations. They were easy to collaborate with throughout the project. We were impressed with their expertise in e-commerce and their ability to implement our requirements effectively. We definitely plan to hire them again for future projects. They have proven themselves to be a valuable partner, and we look forward to continuing our successful partnership.
+                </p>
+              </div>
+            </div>
+          </section>
+        </div>
+      </article>
+      <article class="resume" data-page="resume">
+        <header>
+          <h2 class="h2 article-title">Resume</h2>
+        </header>
+        <section class="timeline">
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+            <h3 class="h3">Education</h3>
+          </div>
+          <ol class="timeline-list">
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Institute of Space Technology Islamabad</h4>
+              <span>2020 — 2024</span>
+              <p class="timeline-text">
+                Bachelor of Technology - Computer Science
+                <br>
+                Grade: 2.80 GPA
+                </br>
+              </p>
+            </li>
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Govt. Post Graduate College Jhelum</h4>
+              <span>2018 — 2020</span>
+              <p class="timeline-text">
+                FSC Pre-Engineering
+                <br>
+                Marks: 872
+                </br>
+              </p>
+            </li>
+          </ol>
+        </section>
+
+        <section class="timeline">
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+            <h3 class="h3">Experience</h3>
+          </div>
+          <ol class="timeline-list">
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Full Stack Developer</h4>
+              <span>Markhorverse - Startup Company</span>
+              <span>Jan 2023 — Present</span>
+              <p class="timeline-text">
+                Skills: Html · CSS · Javascript · Bootstrap · TailwindCSS · React JS · Node JS · Express Js · MongoDB · Django · SQLite · Python
+              </p>
+            </li>
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Web Development Manager</h4>
+              <span>ACM-IST Chapter</span>
+              <span>Mar 2023 - Present</span>
+              <p class="timeline-text">
+                As the project mentor for the ACM IST Chapter's portfolio website, I oversaw and guided its development. I provided mentorship to a dedicated team of developers, designers, and content creators who were passionate about showcasing the chapter's achievements. Collaboration, effective communication, and a shared vision were pivotal to the project's success.
+                <br>
+                Skills: Mentorship · Leadership · Communication · Project Management · Technical Skills (Html CSS JS Node Js & React) · 
+              </p>
+            </li>
+            <li class="timeline-item">
+              <h4 class="h4 timeline-item-title">Mern Stack Developer</h4>
+              <span>Google Developer Student Clubs</span>
+              <span>OCT 2021 - Present</span>
+              <p class="timeline-text">
+                Skills: Html · CSS · Javascript · Bootstrap · TailwindCSS · React JS · Node JS · Express Js · MongoDB
+              </p>
+            </li>
+          </ol>
+        </section>
+        <section class="skill">
+          <h3 class="h3 skills-title">My skills</h3>
+          <ul class="skills-list content-card">
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Html | CSS | JS</h5>
+                <data value="90">90%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">TailwindCSS | Bootstrap</h5>
+                <data value="85">85%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 85%;"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">React JS</h5>
+                <data value="75">75%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 75%;"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Node JS | MonogoDB</h5>
+                <data value="80">80%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">Django | Sqlite</h5>
+                <data value="85">85%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 85%;"></div>
+              </div>
+            </li>
+            <li class="skills-item">
+              <div class="title-wrapper">
+                <h5 class="h5">php | MySQL</h5>
+                <data value="75">75%</data>
+              </div>
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 75%;"></div>
+              </div>
+            </li>
+          </ul>
+        </section>
+      </article>
+      <article class="portfolio" data-page="portfolio">
+        <header>
+          <h2 class="h2 article-title">Portfolio</h2>
+        </header>
+        <section class="projects">
+          <ul class="filter-list">
+            <li class="filter-item">
+              <button class="active" data-filter-btn>All</button>
+            </li>
+            <li class="filter-item">
+              <button data-filter-btn>react and node</button>
+            </li>
+            <li class="filter-item">
+              <button data-filter-btn>django</button>
+            </li> 
+            <li class="filter-item">
+              <button data-filter-btn>php</button>
+            </li>
+            <li class="filter-item">
+              <button data-filter-btn>html | css | js</button>
+            </li>
+          </ul>
+          <div class="filter-select-box">
+            <button class="filter-select" data-select>
+              <div class="select-value" data-selecct-value>Select category</div>
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+            </button>
+            <ul class="select-list">
+              <li class="select-item">
+                <button data-select-item>All</button>
+              </li>
+              <li class="select-item">
+                <button data-select-item>react and node</button>
+              </li>
+              <li class="select-item">
+                <button data-select-item>django</button>
+              </li>
+              <li class="select-item">
+                <button data-select-item>php</button>
+              </li>
+              <li class="select-item">
+                <button data-select-item>html | css | js</button>
+              </li>
+            </ul>
+          </div>
+          <ul class="project-list">
+            <li class="project-item  active" data-filter-item data-category="django">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/bugtracker.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Bug Tracker</h3>
+                <p class="project-category">Product made my Markhorverse</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="php">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/zyndexllc.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Zyndexllc</h3>
+                <p class="project-category">Ecommerce websites</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="html | css | js">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/tufailshah.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Tufail Shah</h3>
+                <p class="project-category">Portfolio website</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="react and node">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/TextUtils.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Textutils to analyze your text</h3>
+                <p class="project-category">React</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="django">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/lotter system.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Lottery Management System</h3>
+                <p class="project-category">Personal System for uk client</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="html | css | js">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/Gym.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Gym website</h3>
+                <p class="project-category">For online registerations</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="react and node">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/react portfolio.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Personal Portfolio</h3>
+                <p class="project-category">React</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="html | css | js">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/FoodDelivery.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Food Delivery Website</h3>
+                <p class="project-category">For Resturants</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="django">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/mandimaster.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Mandi Master</h3>
+                <p class="project-category">Marketplace for sellers and buyers</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="php">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/abaanmart.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Abaan Mart</h3>
+                <p class="project-category">Ecommerce website</p>
+              </a>
+            </li>
+            <li class="project-item  active" data-filter-item data-category="html | css | js">
+              <a href="#">
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+                  <img src="./assets/images/projects/Portfolio.png" alt="finance" loading="lazy">
+                </figure>
+                <h3 class="project-title">Personal Portfolio Website</h3>
+                <p class="project-category">Html</p>
+              </a>
+            </li>
+          </ul>
+        </section>
+      </article>
+      <article class="contact" data-page="contact">
+        <header>
+          <h2 class="h2 article-title">Contact</h2>
+        </header>
+        <section class="mapbox" data-mapbox>
+          <figure>
+            <iframe
+              src="https://www.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Institute of Space Technology (IST), Islamabad Expressway, Sector H DHA Phase II, Islamabad, Pakistan&amp;t&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+              width="400" height="300" loading="lazy"></iframe>
+          </figure>
+        </section>
+        <section class="contact-form">
+          <h3 class="h3 form-title">Contact Form</h3>
+          <form action="#" class="form" data-form>
+            <div class="input-wrapper">
+              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+            </div>
+            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+            <button class="form-btn" type="submit">
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+          </form>
+        </section>
+      </article>
+    </div>
+  </main>
+  <script src="./assets/js/script.js"></script>
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
