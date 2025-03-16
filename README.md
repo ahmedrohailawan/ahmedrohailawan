@@ -3,8 +3,8 @@ Hello! I'm a software engineer with over 2 years of hands-on experience in craft
 <br>
 
 <br>
-- 🎓 I am a `Computer Science Graduate` from [Institute of Space Technology](https://www.ist.edu.pk/).  
-- 👨‍💻 I love using software as a solution for every `problem`.  
-- 🤓 Always `learning new things`.  
-- 💼 Currently working as a `Software Engineer` and open to new `opportunities`.
+- 🎓 I am a `Computer Science Graduate` from [Institute of Space Technology](https://www.ist.edu.pk/).  <br>
+- 👨‍💻 I love using software as a solution for every `problem`.  <br>
+- 🤓 Always `learning new things`.  <br>
+- 💼 Currently working as a `Software Engineer` and open to new `opportunities`. <br>
 <br>
