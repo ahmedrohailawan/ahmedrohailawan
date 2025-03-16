@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ahmed Rohail Awan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-Hello! I'm a Full Stack Engineer with 2+ years of hands-on experience in crafting engaging digital experiences. My expertise lies in both front-end and back-end development, allowing me to deliver comprehensive solutions that meet diverse project needs.
+I'm a Full Stack Engineer with 2+ years of hands-on experience in crafting engaging digital experiences. My expertise lies in both front-end and back-end development, allowing me to deliver comprehensive solutions that meet diverse project needs.
 <br>
 
 <br>
